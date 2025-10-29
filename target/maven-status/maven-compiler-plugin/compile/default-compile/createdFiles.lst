@@ -1,0 +1,13 @@
+com\saanjali\ecommerce\model\Product.class
+com\saanjali\ecommerce\repository\ProductRepository.class
+com\saanjali\ecommerce\controller\OrderController.class
+com\saanjali\ecommerce\controller\UserController.class
+com\saanjali\ecommerce\EcommerceApplication.class
+com\saanjali\ecommerce\controller\ProductController.class
+com\saanjali\ecommerce\model\Order.class
+com\saanjali\ecommerce\repository\OrderItemRepository.class
+com\saanjali\ecommerce\model\OrderItem.class
+com\saanjali\ecommerce\controller\OrderItemController.class
+com\saanjali\ecommerce\repository\OrderRepository.class
+com\saanjali\ecommerce\repository\UserRepository.class
+com\saanjali\ecommerce\model\User.class
